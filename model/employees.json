@@ -1,0 +1,14 @@
+[
+    {   "id": 1,
+        "firstname" : "Olalekan",
+        "lastname" : "Fatokun"
+    },
+    {   "id": 2,
+        "firstname" : "Lugard",
+        "lastname" : "Oyegunle"
+    },
+    {   "id": 3,
+        "firstname" : "Taiwo",
+        "lastname" : "Fatokun"
+    }
+]

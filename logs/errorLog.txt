@@ -1,0 +1,82 @@
+20230304	13:37:06	1fb1fbf4-5e29-4bc6-8d1e-e65d99fc8fcb	TypeError	Cannot read properties of undefined (reading 'firstname')20230304	13:38:05	dd003b12-cebe-46a3-9664-56226bd86a28	TypeError	Cannot read properties of undefined (reading 'firstname')20230304	13:38:38	bbe49c2c-6642-4c89-b0ef-3c911482ab52	TypeError	Cannot read properties of undefined (reading 'firstname')20230304	13:40:16	743799a7-aa21-4db6-bee8-622e76602136	TypeError	Cannot read properties of undefined (reading 'firstname')	2023-03-04	13:41:20	dd94e6b0-9754-44ce-9ae1-a5351f6f98c1	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	13:41:55	406c2c8b-8a0f-4250-8126-b040a388e34d	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	13:43:43	7fd4ff8b-da35-4794-8a55-67c5da81a3e1	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	13:45:09	927938e2-a8e5-49a0-8851-8d3637a44e0b	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	15:39:39	ff5717b5-f262-4e1c-92a9-4afa2be5660d	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	15:42:07	9618455a-a3eb-4e0e-b4c5-37c9379df105	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	15:42:46	b57c9bc6-ea33-468c-8834-ad1b178af8f8	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	15:42:56	b0c07e69-d861-4ab6-bf9d-44d78a45a2cf	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	15:43:32	896483ac-d6ca-4730-9b25-fae34af46919	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	15:44:58	1fd320fd-141a-4e21-92b0-2c31bcc326bc	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	15:45:19	7514f23b-ffe7-4462-b28c-82bdcb26fbb9	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	15:48:48	6384afa4-486d-4599-9454-ae924e258e78	TypeError	Cannot read properties of undefined (reading 'firstnam')
+2023-03-04	15:53:38	38c13825-f102-424c-8cd2-ba5c7a9fac03	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	15:58:55	030ff85c-7bf0-482f-a3a5-4b1906ba415e	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	16:01:06	029a870f-a2b3-40e7-b2ab-c5f2c89571a2	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	16:02:56	58231d60-790b-4fe7-b6b9-11a2f275dc2f	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	16:03:54	eb357b3d-e04e-413b-b2c2-272ee113bdb2	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	16:04:02	22e9fa79-75c4-4a96-8998-141eabd8f2f4	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	16:04:07	7d614029-fc97-491b-8e79-8f122cfd95d7	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	16:04:32	73645ef7-3116-4733-a996-a962d78b7cfc	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	16:04:37	4a987ea2-e2ee-40f4-bfee-aebfe14b431e	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	16:06:04	467b76c4-1f8f-45be-9157-4be2abdb5b35	TypeError	Cannot read properties of undefined (reading 'firstname')
+2023-03-04	17:02:47	0360cd20-2959-47a1-820b-7959c835579a	TypeError	Cannot read properties of undefined (reading 'id')
+2023-03-04	17:03:28	91b917c7-a450-4fab-b7f4-ae9863ebc068	TypeError	Cannot read properties of undefined (reading 'id')
+2023-03-04	17:04:41	69c5e767-fb6e-4e2e-8bb1-7c7338f66d98	TypeError	Cannot read properties of undefined (reading 'id')
+2023-03-04	17:04:58	c115d6ef-351a-4ba0-90c6-cec0084c2a10	TypeError	Cannot read properties of undefined (reading 'id')
+2023-03-04	17:35:39	11949f07-169a-4b58-8335-d773dfbafebf	TypeError	Assignment to constant variable.
+2023-03-04	17:36:08	d37013df-134a-46fb-b7e8-919e14b519f7	TypeError	Assignment to constant variable.
+2023-03-04	17:37:00	47ddb567-ef9f-485c-b768-89e94d104cf8	TypeError	Assignment to constant variable.
+2023-03-04	17:38:26	a2f03930-12e2-4228-acd7-4bbb56afc70d	TypeError	Assignment to constant variable.
+2023-03-04	17:38:35	fdb9d384-a467-4ad9-bfd8-ca8eee7c1a32	TypeError	Assignment to constant variable.
+2023-03-04	17:40:31	b5c15d03-8f6f-4e8f-85dc-b05f5ef31669	TypeError	Assignment to constant variable.
+2023-03-04	17:40:33	a7d4f738-1a78-4ef3-9122-5ce2ec264fb4	TypeError	Assignment to constant variable.
+2023-03-04	17:41:31	ca31157a-5422-423a-80f3-b17c897858e8	TypeError	Assignment to constant variable.
+2023-03-04	17:41:34	bd606201-ff07-4d5d-94f7-10e557b8a6d9	TypeError	Assignment to constant variable.
+2023-03-04	17:55:51	43a07fd5-40d4-426a-a670-dd720d08631b	TypeError	data.employees.filter is not a function
+2023-03-04	17:57:21	d21133c7-87b7-4f78-aadd-de751fb59114	TypeError	data.employees.find is not a function
+2023-03-04	17:57:28	1a40b9d4-93e0-4f8b-8ed9-230625fb27e2	TypeError	data.employees.find is not a function
+2023-03-04	17:58:57	9f74d15a-7d4b-4a6b-932b-0b844f3818c7	TypeError	data.setEmployees is not a function
+2023-03-06	13:48:23	4b685f1d-7a97-4585-8c21-caac122d292d	Error	data must be a string or Buffer and salt must either be a salt string or a number of rounds
+2023-03-10	09:56:45	fb5a86e9-428d-4a5b-9689-eb0f6bde661a	TypeError	Cannot read properties of undefined (reading 'id')
+2023-03-11	09:12:49	48b29bc9-6425-41b6-8ee1-3f3ba45e1275	TypeError	Cannot read properties of undefined (reading 'split')
+2023-03-11	09:16:14	87640570-c851-4952-b33f-a9039a89d0fc	TypeError 	 The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined2023-03-11	09:21:43	ae766729-7f19-4f0a-b3ec-4e3c90ff5c4a	TypeError 	 res.cookies is not a function2023-03-11	09:37:00	515ec30a-0252-4f13-bab7-6f2a8cf2b119	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	09:39:17	b6ab8e02-5629-4b41-9250-702f6fe0667d	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	09:40:08	39525850-134a-4c76-ae5d-1e01e946430e	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	09:40:13	55da27eb-590c-48b8-a9ff-0b8ae4f0353d	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	09:40:19	8ff34ca3-22d4-4bc1-9b15-b9ce77e663ad	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	09:40:26	5d9b0216-b763-4ba0-8801-aef6dc9343db	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	09:43:10	e6520b14-813f-42e3-9f7b-7083eb16fd0d	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	09:43:15	8f9269ae-d95b-4151-834a-dba9550e8498	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	09:43:19	3b03c7cf-be8b-4d3f-97d8-ff16aa96a59b	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	09:43:24	07de961d-18dd-477e-89b0-f4303ba88387	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	09:43:27	82ca2806-51ba-4413-9baa-e9e6e04b4dd6	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	09:43:33	aa31a009-8898-4ddf-bb42-601c2f8f3003	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	09:43:50	356475e9-233e-4559-a220-e1f4850e6c19	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	11:36:51	22cdd330-d706-48ff-8018-fcc1ad7ecbfa	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	11:37:04	de534a77-1139-427c-95d4-bdabea12cee7	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	11:38:59	dddde4e9-7569-4e72-8859-957ace35fef7	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	11:39:03	461c28c8-fd91-4f60-ab87-8194d9a834da	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	12:19:54	1caa6e6b-408a-4e34-baae-36d780300043	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	12:20:25	f696db9f-2b4b-41b1-99b9-4ddd1ad05cf7	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	17:59:02	f0c9b294-0b36-4b55-849f-49b4b24884f3	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	18:00:55	6358cddf-a9e2-44a1-a284-d2f8bfff117a	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	18:01:08	e4dad417-62da-4478-b2a0-b42b883125b5	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	18:01:22	8b98ddf1-5ea2-4033-b27f-237adb954b73	Error	Cannot set headers after they are sent to the client
+2023-03-11	18:01:31	3d209617-34fb-4295-99e3-8a668b290488	Error	Cannot set headers after they are sent to the client
+2023-03-11	18:01:40	c1f212c5-7e65-4dd5-97c3-82d71a1d8233	TypeError	Cannot read properties of undefined (reading 'username')
+2023-03-11	18:01:59	43859b3d-f76d-4a31-a19a-52e18cb2212d	TypeError	Cannot read properties of undefined (reading 'split')
+2023-03-11	18:02:20	fa6f9b4a-d7af-4fa4-bd55-e1deebc17897	TypeError	Cannot read properties of undefined (reading 'split')
+2023-03-11	18:02:35	ae405972-ee77-4c84-a455-1cd69f2c556b	Error	Cannot set headers after they are sent to the client
+2023-03-11	18:59:37	2eb60606-4e0c-453c-b891-88420a62cc9d	ReferenceError	next is not defined
+2023-03-11	18:59:41	d23dc98b-9e90-4a3a-be68-961d8f5b17b9	ReferenceError	next is not defined
+2023-03-11	19:00:16	0aadfa41-0d5e-4ddb-94cc-0cf7eecb32d1	ReferenceError	next is not defined
+2023-03-11	19:00:18	dcbe6cef-d70f-4031-bea1-f88dc26a7886	ReferenceError	next is not defined
+2023-03-14	14:49:33	99826306-2d2d-497d-bdce-cee36a2de390	TypeError	authHeader?.startWith is not a function
+2023-03-14	14:51:43	88c994d5-826f-4369-aeae-b30daa967f0f	TypeError	authHeader?.startWith is not a function
+2023-03-14	14:52:54	345ce0f9-475a-4a56-9cd3-3be77571a661	TypeError	authHeader?.startwith is not a function
+2023-03-14	14:54:18	d9fc96f2-dff5-46dd-8774-a9fd396abd65	TypeError	Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle

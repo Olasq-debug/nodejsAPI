@@ -1,0 +1,26 @@
+[
+    {
+        "username": "olalekan",
+        "roles": {
+            "admin": 5089,
+            "editor": 1998,
+            "user": 5000
+        },
+        "password": "$2b$10$iAMWT5XpBnkNQeS7cWKj0OGJ3BmbzhqDLvb1S/WTl0GAIk43Q1ady"
+    },
+    {
+        "username": "ola",
+        "roles": {
+            "editor": 1998,
+            "user": 5000
+        },
+        "password": "$2b$10$yC47SH1kY5G0nepM8.RZTODm4uZTjyweWN/8Vin6r8Nnree9.L8EO"
+    },
+    {
+        "username": "olasunkanmi",
+        "roles": {
+            "user": 5000
+        },
+        "password": "$2b$10$gPlVRFl4yj0uUBkq43IuFu4FfWyeHleWwhGT9LehJZOXJy5NxmJ5y"
+    }
+]
